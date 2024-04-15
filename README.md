@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/KrishnaKV2004" alt="Krishna Verma's GitHub Profile Picture" />
 
 ###
 
@@ -29,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="30" alt="cpp logo"  />
 </div>
 
 ###
@@ -44,4 +42,4 @@
 
 <br clear="both">
 
-<img src="https://github.com/KrishnaKV2004/KrishnaKV2004/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/KrishnaKV2004/KrishnaKV2004/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
