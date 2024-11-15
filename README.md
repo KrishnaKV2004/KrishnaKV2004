@@ -61,3 +61,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/KrishnaKV2004/KrishnaKV2004/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+## Last 28 Days Stats
+
+![Activity Chart](./activity_chart.png)
+
