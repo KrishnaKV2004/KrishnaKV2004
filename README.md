@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Krishna Verma</h2>
+<br></br>
 
 ###
 
@@ -8,6 +8,7 @@
 </div>
 
 ###
+<br></br>
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/KrishnaKV2004" alt="Krishna Verma's GitHub Profile Picture" style="border-radius: 50%;">
 
