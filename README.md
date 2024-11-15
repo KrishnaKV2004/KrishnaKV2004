@@ -59,3 +59,5 @@
 ###
 
 <br clear="both">
+
+![snake_gif](https://github.com/KrishnaKV2004/KrishnaKV2004/blob/output/github-snake-dark.svg)
