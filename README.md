@@ -7,7 +7,6 @@
 ###
 
 <div align="center">
-  <img src="Fire.gif" height="150px">
   <img src="https://github-readme-stats.vercel.app/api?username=KrishnaKV2004&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKV2004&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" border-radius="50%" />
 </div>
@@ -66,4 +65,6 @@
 
 <br clear="both">
 
-![snake_gif](https://github.com/KrishnaKV2004/KrishnaKV2004/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/KrishnaKV2004/KrishnaKV2004/blob/output/github-snake-dark.svg" alt="snake_gif">
+</div>
