@@ -7,8 +7,9 @@
 ###
 
 <div align="center">
+  <img src="Fire.gif" height="150px">
   <img src="https://github-readme-stats.vercel.app/api?username=KrishnaKV2004&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKV2004&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKV2004&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" border-radius="50%" />
 </div>
 
 ###
