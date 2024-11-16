@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
-  <img src="Fire.gif" alt="Your GIF" width="200px">
+  <img src="Fire.gif" alt="Your GIF" width="250px">
 </div>
   <div align="center">
     <h3><br>Hi there 👋, I'm Krishna Verma</h3>
