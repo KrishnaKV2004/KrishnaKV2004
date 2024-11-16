@@ -1,6 +1,20 @@
-<h2>
-  Hello ! I am Krishna Verma 
-</h2>
+<div align="center" style="display: flex; align-items: center; gap: 20px;">
+  <img src="Fire.gif" alt="Your GIF" width="200px">
+</div>
+  <div align="center">
+    <h3><br>Hi there 👋, I'm Krishna Verma</h3>
+    <p>
+      I'm a <strong>B.Tech CSE student</strong> passionate about <strong>AI/ML</strong>, <strong>Android development</strong>, and creating intuitive user experiences.<br>
+      I enjoy solving complex problems and exploring cutting-edge technologies like <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.
+    </p>
+    <p>
+      ✨ Always eager to learn and collaborate on exciting tech innovations!<br>
+      🌱 Currently refining my skills in <strong>AI/ML</strong> and <strong>mobile app development</strong>.
+    </p>
+    <p>
+      Feel free to explore my repositories and connect with me! 😊
+    </p>
+  </div>
 
 <br></br>
 
