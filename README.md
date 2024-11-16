@@ -14,7 +14,7 @@
 ###
 <br></br>
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/KrishnaKV2004" alt="Krishna Verma's GitHub Profile Picture" style="border-radius: 50%;">
+<img align="right" height="150" src="Mario.gif" alt="Krishna Verma's GitHub Profile Picture" style="border-radius: 50%;">
 
 ###
 
