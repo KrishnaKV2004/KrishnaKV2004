@@ -79,6 +79,12 @@
 
 <br clear="both">
 
+<br></br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaKV2004&theme=radical&hide_border=false&background=000000" />
+</div>
+
 <div align="center">
   <img src="https://github.com/KrishnaKV2004/KrishnaKV2004/blob/output/github-snake-dark.svg" alt="snake_gif">
 </div>
