@@ -82,7 +82,7 @@
 <br></br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaKV2004&theme=radical&hide_border=false&background=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaKV2004&theme=radical&hide_border=false&background=000000" alt="Github Contribution"/>
 </div>
 
 <div align="center">
