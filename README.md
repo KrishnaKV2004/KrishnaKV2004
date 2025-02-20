@@ -4,12 +4,12 @@
   <div align="center">
     <h3><br>Hi there 👋, I'm Krishna Verma</h3>
     <p>
-      I'm a <strong>B.Tech CSE student</strong> passionate about <strong>AI/ML</strong>, <strong>Android development</strong>, and creating intuitive user experiences.<br>
-      I enjoy solving complex problems and exploring cutting-edge technologies like <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.
+      I'm a <strong>B.Tech CSE student</strong> passionate about <strong>AI/ML</strong>, and <strong>development</strong>, and creating intuitive user experiences.<br>
+      I enjoy solving complex problems and exploring cutting-edge technologies.
     </p>
     <p>
       ✨ Always eager to learn and collaborate on exciting tech innovations!<br>
-      🌱 Currently refining my skills in <strong>AI/ML</strong> and <strong>mobile app development</strong>.
+      🌱 Currently refining my skills in <strong>AI/ML</strong> and <strong>development</strong>.
     </p>
     <p>
       Feel free to explore my repositories and connect with me! 😊
@@ -42,10 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="android studio logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
