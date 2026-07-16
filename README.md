@@ -1,82 +1,68 @@
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
-  <img src="Fire.gif" alt="Your GIF" width="250px">
-</div>
-  <div align="center">
-    <h3><br>Hi there 👋, I'm Krishna Verma</h3>
-    <p>
-      I'm a <strong>B.Tech CSE student</strong> passionate about <strong>AI/ML</strong>, and <strong>development</strong>, and creating intuitive user experiences.<br>
-      I enjoy solving complex problems and exploring cutting-edge technologies.
-    </p>
-    <p>
-      ✨ Always eager to learn and collaborate on exciting tech innovations!<br>
-      🌱 Currently refining my skills in <strong>AI/ML</strong> and <strong>development</strong>.
-    </p>
-    <p>
-      Feel free to explore my repositories and connect with me! 😊
-    </p>
-  </div>
-
-<br></br>
-
-###
-
+<!-- PROFILE HEADER: macOS Terminal Mockup -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaKV2004&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKV2004&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" border-radius="50%" />
+  <img src="terminal.svg" alt="Krishna's macOS Terminal" width="860" />
 </div>
 
-###
-<br></br>
+<br />
 
-<img align="right" height="150" src="Mario.gif" alt="Krishna Verma's GitHub Profile Picture" style="border-radius: 50%;">
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="keras logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30"/>
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
+<!-- SOCIAL CONNECTS -->
+<div align="center">
   <a href="https://www.instagram.com/krishna_r35?igsh=MTRwbWh1eGtzNTJ0OQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:krishnaverma.0227@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/krishna-verma-237579321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
-###
+<hr />
 
-<br clear="both">
+<!-- TECHNOLOGY STACK -->
+<h3 align="center">🛠️ Technology Stack &amp; Toolbox</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+</p>
 
-<br></br>
+<br>
+<br>
 
+<!-- Github Activity Graph -->
 <div align="center">
-  <img src="https://github.com/KrishnaKV2004/KrishnaKV2004/blob/output/github-snake-dark.svg" alt="snake_gif">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaKV2004&amp;theme=tokyonight&amp;area=true&amp;hide_border=true" alt="Krishna's GitHub Activity Graph" width="800" />
+</div>
+
+<br />
+
+<!-- GitHub Stats & Top Languages -->
+
+<br />
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaKV2004&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="180" />
+</div>
+
+<br />
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<h3 align="center">🐍 GitHub Contribution Grid Snake</h3>
+<div align="center">
+  <!-- Note: We use raw link or relative link so that it loads dynamically from your repository -->
+  <img src="https://raw.githubusercontent.com/KrishnaKV2004/KrishnaKV2004/output/github-snake-dark.svg" alt="contribution snake game" width="800" />
 </div>
