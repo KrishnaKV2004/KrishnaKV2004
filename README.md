@@ -61,7 +61,6 @@
 <br />
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
-<h3 align="center">🐍 GitHub Contribution Grid Snake</h3>
 <div align="center">
   <!-- Note: We use raw link or relative link so that it loads dynamically from your repository -->
   <img src="https://raw.githubusercontent.com/KrishnaKV2004/KrishnaKV2004/output/github-snake-dark.svg" alt="contribution snake game" width="800" />
