@@ -44,19 +44,12 @@
 
 <!-- Github Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaKV2004&amp;theme=tokyonight&amp;area=true&amp;hide_border=true" alt="Krishna's GitHub Activity Graph" width="800" />
+  <img src="https://activity-graph-eight.vercel.app/graph?username=KrishnaKV2004" alt="Krishna's GitHub Activity Graph" width="800" />
 </div>
 
 <br />
 
 <!-- GitHub Stats & Top Languages -->
-
-<br />
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaKV2004&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="180" />
-</div>
 
 <br />
 
